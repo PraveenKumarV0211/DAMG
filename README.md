@@ -2,7 +2,7 @@
 
 Enterprise IoT database for vehicle incident tracking, insurance management, and service history with real-time telemetry integration.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image.png)
 
 ## Quick Stats
 - **14 Tables** | **4 Procedures** | **3 Views** | **3 UDFs** | **7 Triggers**
